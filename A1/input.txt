@@ -1,0 +1,8 @@
+ls
+ls -a
+pwd
+echo $USER
+cwd
+date
+ps
+exit
